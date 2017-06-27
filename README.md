@@ -9,4 +9,4 @@ I'll add the other challenges once I've fixed the codes on them and all.
 Anyway, here's a summary of what the programs in this repository [so far] can do:
 
  * C2AutoCashierLooped.rb:
-    - This acts as an automated machine for a fruit shop.
+    - This acts as an automated cashier for a fruit shop.  
