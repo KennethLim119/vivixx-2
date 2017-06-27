@@ -18,6 +18,7 @@ def reset
     {item: "Mangoes", php: 20, amt: 0}
    ]
   @items = @items.sort_by { |i, php, a| i[:item]  }
+  @money = 0
 end
 
 
