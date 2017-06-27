@@ -7,3 +7,6 @@ Actually, these are just some of the challenges; To be honest, they're the ones 
 I'll add the other challenges once I've fixed the codes on them and all.
 
 Anyway, here's a summary of what the programs in this repository [so far] can do:
+
+ * C2AutoCashierLooped.rb:
+    - This acts as an automated machine for a fruit shop.
