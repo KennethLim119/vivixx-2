@@ -1,2 +1,0 @@
-{:name=>"Joseph", :pin=>4863, :bal=>900000.0, :actnum=>2198513516}
-{:name=>"DMonMac", :pin=>8954, :bal=>5000, :actnum=>1863516512}
