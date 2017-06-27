@@ -26,6 +26,7 @@ How to Use:
 	*Available commands:
 		Animation.side_to_side
 		Animation.gymnastics
+		Animation.cartwheel
 	
 
 	* Oh yeah, the animations loop for 5 rounds. so it'll stop eventaully.
