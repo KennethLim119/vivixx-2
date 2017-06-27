@@ -29,7 +29,7 @@ How to Use:
 		Animation.cartwheel
 	
 
-	* Oh yeah, the animations loop for 5 rounds. so it'll stop eventaully.
+	* Oh yeah, the animations loop for 5 rounds. so it'll stop eventually.
 
 I'll add more animations soon...well sort of. Probably best not to hope too much.
 
